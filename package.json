@@ -1,0 +1,19 @@
+{
+  "name": "@biancakaritas/brians-seje-dims",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkaritasjensen/brians-seje-dims.git"
+  },
+  "author": "Bianca Karitas Jensen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bkaritasjensen/brians-seje-dims/issues"
+  },
+  "homepage": "https://github.com/bkaritasjensen/brians-seje-dims#readme"
+}
